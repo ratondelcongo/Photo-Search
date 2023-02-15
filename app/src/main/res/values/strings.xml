@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Photo-Search</string>
+    <string name="trending_title">Trending Now On Flickr</string>
+    <string name="search_result_title">Search Results For \"%1$s\"</string>
+</resources>
